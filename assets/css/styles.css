@@ -136,7 +136,7 @@ img {
   100% {
     opacity: 0;
     transform: translateY(-20%);
-    display: none;
+    visibility: hidden;
   }
 }
 .container-video-load {
