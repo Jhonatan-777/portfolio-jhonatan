@@ -21,18 +21,16 @@ Esse portfolio foi desenvolvido por mim Jhonatan. E nele demonstro um pouco dos 
 
 ---
 
-
-
 Sou um Desenvolvedor Front-end e com muita determinação e confiança acredito que posso contribuir e fazer a diferença no mundo da tecnologia e informação
 
 - Esse é meu primeiro site portfolio e quiz utilizar HTML/CSS e JavaScript nele, e fiquei muito feliz com o resultado.
 
-- Nesse portfolio demonstro alguns trabalhos no qual tem o link de acesso e o de repositorio. Além de falar um pouco sobre mim e meus conhecimentos.
+- Nesse portfolio demonstro alguns trabalhos no qual tem o link de acesso e o de repositório. Além de falar um pouco sobre mim e meus conhecimentos.
 
-- Na seção de contato há a possibilidade de enviar uma mensagem para o meu email. 
+- Na seção de contato há a possibilidade de enviar uma mensagem para o meu email.
 
 ---
 
-> Desing e Desenvolvimento deste web-site feito por: [Jhonatan.](https://github.com/Jhonatan-777/ "Github Jhonatan Silva")
+> Design e Desenvolvimento deste web-site feito por: [Jhonatan.](https://github.com/Jhonatan-777/ "Github Jhonatan Silva")
 
 ---
