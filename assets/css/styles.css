@@ -908,7 +908,7 @@ img {
   z-index: 20;
   position: absolute;
   padding: 5px 10px;
-  content: "Mais Projetos ⭢";
+  content: "+ Mais Projetos";
   color: var(--white-color);
   font-size: var(--normal-font-size);
   font-family: var(--title-font);
