@@ -40,6 +40,4 @@ document.addEventListener("DOMContentLoaded", function ()
     card.addEventListener("mouseover", pauseAnimation);
     card.addEventListener("mouseout", startAnimation);
   });
-
-
 });
