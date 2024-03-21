@@ -2,12 +2,14 @@
 
 ## Informações sobre o projeto
 
-Projeto de Portfolio.
+Projeto de Portfolio.💼
+
 Esse portfolio foi desenvolvido utilizando HTML/CSS e JavaScript.
+E é possível ver meus conhecimentos e no que estou trabalhando no momento. 💡
 
 > Acesse em: [Portfolio Jhonatan](https://jhonatan777.vercel.app/ "Portfolio Jhonatan")
 
-Esse portfolio foi desenvolvido por mim Jhonatan. E nele demonstro um pouco dos meus meus conhecimentos e trabalhos realizados.
+---
 
 > ### Página Principal (Home):
 
@@ -23,11 +25,24 @@ Esse portfolio foi desenvolvido por mim Jhonatan. E nele demonstro um pouco dos 
 
 Sou um Desenvolvedor Front-end e com muita determinação e confiança acredito que posso contribuir e fazer a diferença no mundo da tecnologia e informação
 
-- Esse é meu primeiro site portfolio e quiz utilizar HTML/CSS e JavaScript nele, e fiquei muito feliz com o resultado.
-
 - Nesse portfolio demonstro alguns trabalhos no qual tem o link de acesso e o de repositório. Além de falar um pouco sobre mim e meus conhecimentos.
 
-- Na seção de contato há a possibilidade de enviar uma mensagem para o meu email.
+- Esse é meu primeiro site portfolio e quiz utilizar HTML/CSS e JavaScript nele, e fiquei muito feliz com o resultado.
+
+- Esse projeto levou pelo menos 5 meses pra ser desenvolvido desde a concepção da ideia até o momento de hospedá-lo em site.
+
+- Para isso estudei sobre prototipagem (Principalmente utilizando o Figma), tipografia, paleta de cores, grid layout, layout mobile e pesquisa de UX/UI.
+
+- Sobre as imagens e vídeos busquei formas de diminuir o peso desses, existem sites que fazem esse trabalho pra nós de forma bem rápida e fácil sem diminuir a qualidade visual.
+
+- Pra tornar esse portfolio interativo e dinâmico utilizei as bibliotecas:
+  
+  💈 ScrollReveal que permitiu dar ao elemento que aparece na tela um efeito de entrada.
+  
+  📩 EmailJs para o envio de e-mails através do formulário de contato.
+  
+  🧱 Esse portfólio também possui funções pra fazer o scroll suave e mostrar ao usuário a section ativa, hamburguer menu para telas mobile e também uma função para mudar o projeto visível na parte mais projetos além de outras coisinhas. 
+
 
 ---
 
